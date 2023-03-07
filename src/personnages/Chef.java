@@ -1,3 +1,4 @@
+package personnages;
 public class Chef {
 	private String nom;
 	private int force;

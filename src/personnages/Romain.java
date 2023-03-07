@@ -1,3 +1,4 @@
+package personnages;
 
 public class Romain {
 	private String nom;
@@ -26,6 +27,9 @@ public class Romain {
 			parler("Aïe");
 		} else {
 			parler("J'abandonne...");
-		}
+		}		
+	}
+	public static void main(String[] args)
+	{
 	}
 }
